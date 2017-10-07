@@ -19,7 +19,16 @@
 
 <body>
 
+  <nav class="navbar navbar-default" style="background-color: #ffbb3f">
+     <div class="container-fluid">
+       <div class="navbar-header">
+         <a class="navbar-brand" href="/index.html">School inschrijven</a>
+       </div>
+       <ul class="nav navbar-nav" style="background-color: rgb(77, 101, 141);">
 
+       </ul>
+     </div>
+   </nav>
 
 
 
