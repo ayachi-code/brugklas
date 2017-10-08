@@ -33,11 +33,29 @@
    </nav>
 
 
-   <div class="jumbotron text-center" style="margin-top: -20px;">
-      <h1>Welkom bij brugklasinschrijven.nl</h1>
-    </div>
+
+  <div class="jumbotron text-center" style="margin-top: -20px;">
+    <h1>Welkom bij brugklasinschrijven.nl</h1>
+  </div>
+
+  <footer class="info">
+      <h5>© Bilal ayachi 2017</h5>
+      <h5>Deze website is opensource de code zit op github druk hier om het te bekijken</h5>
+  </footer>
 
 
+
+
+  <div class="col-sm-9">
+            <div class="well">
+              <section>
+                <article>
+                  Hallo welkom bij brugklas inschrijven klik op inschrijven om inteschrijven.
+                  En klik op over ons, om info te vinden over ons bedrijf.
+                  </article>
+                </section>
+            </div>
+          </div>
 
 
 </body>
